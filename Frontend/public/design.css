@@ -1,0 +1,14 @@
+.scroll { 
+    margin:4px, 4px; 
+    margin-bottom: 4px;
+    padding:4px; 
+   
+    width: 100%; 
+    height: 300px; 
+    overflow-x: hidden; 
+    overflow-y: auto; 
+    text-align:justify; 
+}
+.body{background-color: #B3CDD1;
+    background-image: linear-gradient(315deg, #B3CDD1 0%, #9FA4C4 74%);
+    }
